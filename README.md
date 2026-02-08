@@ -8,6 +8,13 @@
 ### Sobre o Projeto
 **Comprar** é uma aplicação móvel desenvolvida para gerenciar listas de compras de forma simples e eficiente. O objetivo é ajudar o usuário a organizar seus itens de compra, permitindo adicionar novos produtos, marcar itens como concluídos e filtrar a visualização entre itens pendentes e comprados. O aplicativo persiste os dados localmente, garantindo que a lista não seja perdida ao fechar o app.
 
+#### Telas
+<div align="center">
+  <img src="./assets/demo/initial.jpeg" width="200" />
+  <img src="./assets/demo/pending.jpeg" width="200" />
+  <img src="./assets/demo/done.jpeg" width="200" />
+</div>
+
 ### Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
@@ -34,19 +41,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 #### Android
--   Configure o ambiente Android seguindo a documentação do [React Native](https://reactnative.dev/docs/environment-setup).
+-   Configure o ambiente Android seguindo a documentação do [React Native](https://reactnative.dev/docs/set-up-your-environment).
 -   Android Studio e SDKs necessários.
 -   Um dispositivo físico ou emulador configurado.
 
 #### iOS
 -   macOS é necessário.
+-   Configure o ambiente iOS seguindo a documentação do [React Native](https://reactnative.dev/docs/set-up-your-environment).
 -   Xcode instalado via App Store.
 -   Um dispositivo físico ou simulador configurado.
 
 ### Rodando a Aplicação
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/seu-usuario/comprar.git>
+$ git clone <https://github.com/diwberg/comprar.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd comprar
@@ -68,6 +76,13 @@ Após executar o comando acima, utilize:
 
 ### About the Project
 **Comprar** is a mobile application designed to manage shopping lists simply and efficiently. The goal is to help users organize their shopping items by allowing them to add new products, mark items as done, and filter the view between pending and purchased items. The app persists data locally, ensuring the list is not lost when closing the app.
+
+#### Screens
+<div align="center">
+  <img src="./assets/demo/initial.jpeg" width="200" />
+  <img src="./assets/demo/pending.jpeg" width="200" />
+  <img src="./assets/demo/done.jpeg" width="200" />
+</div>
 
 ### Technologies Used
 The project was developed using the following technologies and libraries:
@@ -95,19 +110,20 @@ Before you begin, you will need to have the following tools installed on your ma
 In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 #### Android
--   Set up the Android environment following the [React Native documentation](https://reactnative.dev/docs/environment-setup).
+-   Set up the Android environment following the [React Native documentation](https://reactnative.dev/docs/set-up-your-environment).
 -   Android Studio and necessary SDKs.
 -   A physical device or emulator configured.
 
 #### iOS
 -   macOS is required.
+-   Set up the iOS environment following the [React Native documentation](https://reactnative.dev/docs/set-up-your-environment).
 -   Xcode installed via App Store.
 -   A physical device or simulator configured.
 
 ### Running the Application
 ```bash
 # Clone this repository
-$ git clone <https://github.com/your-username/comprar.git>
+$ git clone <https://github.com/diwberg/comprar.git>
 
 # Access the project folder in terminal/cmd
 $ cd comprar
